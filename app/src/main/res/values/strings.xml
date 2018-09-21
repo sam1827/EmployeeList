@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">To Do</string>
+    <string name="app_name">Employee List</string>
     <string name="action_settings">Settings</string>
 
     <string name="password_hint">Password</string>
